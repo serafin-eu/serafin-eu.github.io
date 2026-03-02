@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Agile × Culture — Master Mapping Summary"
-permalink: /cultural-differences-and-agile/agilexculture-master-mapping-summary
+permalink: /agilexculture-master-mapping-summary
+---
 
 # Agile × Culture — Master Mapping Summary
 

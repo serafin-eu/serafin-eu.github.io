@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Culture Map Deep Dive"
-permalink: /cultural-differences-and-agile/cultural-map-deep-dive
+permalink: /cultural-map-deep-dive
+---
 
 As we are all aware, Erin Meyer's *The Culture Map* is a LinkedIn favorite regarding cultural differences.
 
